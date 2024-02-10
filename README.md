@@ -45,6 +45,8 @@
 * [AU wages calculator](https://paycalculator.com.au/)
 * [Calculate Long Service Leave](https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/calculate-long-service-leave)
 * [Currency converter](https://www.xe.com/)
+* [ilovepDF](https://www.ilovepdf.com/)
+* [Time Duration Calculator](https://www.calculator.net/time-duration-calculator.html?starthour=7&startmin=00&startsec=0&startunit=a&endhour=8&endmin=15&endsec=0&endunit=a&ctype=1&x=53&y=21)
 
 ### Xero
 * [Xero Central Support](https://central.xero.com/s/)
