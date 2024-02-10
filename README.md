@@ -1,5 +1,18 @@
 # Bookkeeping Resources
 
+### Software
+* [Xero](https://www.xero.com/au/login/)
+* [Quickbooks](https://accounts.intuit.com/app/sign-in?app_group=QBO&asset_alias=Intuit.accounting.core.qbowebapp&locale=en-AU&state=%7B%22queryParams%22%3A%7B%22locale%22%3A%22en-AU%22%7D%7D&app_environment=prod)
+* [Dext](https://app.dext.com/login/)
+* [Lightyear](https://app.lightyear.cloud/login)
+* [Hubdoc](https://app.hubdoc.com/login)
+* [Deputy](https://once.deputy.com/my/login?redirect_url=https%3A%2F%2Fonce.deputy.com%2Fmy%2F)
+* [Tanda](https://my.tanda.co/login)
+* [Keypay](https://keypay.yourpayroll.com.au/)
+* [Employment Hero](https://employmenthero.yourpayroll.com.au/)
+* [Cliniko](https://www.cliniko.com/login/)
+* [Practice Protect Support](https://support.practiceprotect.com/get-in-contact/)
+
 ### Vicroads
 * [Transport Accident Charges including GST and Duty](https://www.tac.vic.gov.au/__data/assets/pdf_file/0004/758686/TAC-Premiums-2023_24.pdf)
 * [Vicroads Vehicle fees](https://www.vicroads.vic.gov.au/registration/registration-fees/vehicle-registration-fees)
