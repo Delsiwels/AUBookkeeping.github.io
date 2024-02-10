@@ -15,9 +15,34 @@
 * [Practice Protect Support](https://support.practiceprotect.com/get-in-contact/)
 
 
+### Online tools
+* [ABN Lookup](https://abr.business.gov.au/Search)
+* [ABN Lookup Advanced Search](https://www.abr.business.gov.au/Search/Advanced)
+* [BSB Lookup](https://bsb.auspaynet.com.au/)
+* [Tax withheld calculator](https://www.ato.gov.au/Calculators-and-tools/Tax-withheld-calculator)
+* [AU wages calculator](https://paycalculator.com.au/)
+* [XE.com - Currency converter](https://www.xe.com/)
+* [ilovepDF - convert PDF to CSV](https://www.ilovepdf.com/)
+* [Time Duration Calculator](https://www.calculator.net/time-duration-calculator.html?starthour=7&startmin=00&startsec=0&startunit=a&endhour=8&endmin=15&endsec=0&endunit=a&ctype=1&x=53&y=21)
+* [Amortisation calculator](https://www.bretwhissel.net/cgi-bin/amortize)
+
+
+### Online forms
+* [ATO: TFN and Superannuation Forms and instructions](https://www.ato.gov.au/forms-and-instructions#sortCriteria=%40dateupdated%20descending)
+
+
+
+### Fairwork and Payroll Support 
+* [Fairwork: Fast Food Industry Award](https://www.fairwork.gov.au/find-help-for/fast-food-restaurants-cafes/fast-food-industry)
+* [Fairwork](https://www.fwc.gov.au/)
+* [Payroll Support](https://support.yourpayroll.com.au/hc/en-au/articles/5015381108111-Electrical-Electronic-and-Communications-Contracting-Award-2020-MA000025)
+
+
+
 ### Vicroads
 * [Transport Accident Charges including GST and Duty](https://www.tac.vic.gov.au/__data/assets/pdf_file/0004/758686/TAC-Premiums-2023_24.pdf)
 * [Vicroads Vehicle fees](https://www.vicroads.vic.gov.au/registration/registration-fees/vehicle-registration-fees)
+
 
 
 ### ATO 
@@ -31,7 +56,7 @@
 * [ATO: Common entertainment scenarios for business](https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/fringe-benefits-tax/types-of-fringe-benefits/entertainment-related-fringe-benefits/common-entertainment-scenarios-for-business)
 * [ATO: GST and Food](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/food/gst-and-food)
 * [ATO: GST and Health](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/gst-and-health)
-* [ATO: Instant asset write-off for eligible businesses](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/depreciation-and-capital-expenses-and-allowances/simpler-depreciation-for-small-business/instant-asset-write-off)
+* [ATO: GST food and beverage search](https://www.ato.gov.au/single-page-applications/calculatorsandtools#GSTFBSearch/questions)
   
 * [ATO: Fuel Tax Credits - Business](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/fuel-schemes/fuel-tax-credits-business)
 * [Fuel tax credits calculation worksheet](https://www.ato.gov.au/forms-and-instructions/fuel-tax-credits-calculation-worksheet)
@@ -43,10 +68,7 @@
   
 * [ATO: Assets & Exclusions](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/depreciation-and-capital-expenses-and-allowances/simpler-depreciation-for-small-business/assets-and-exclusions)
 * [ATO: GST and the Disposal of Capital Assets](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/rules-for-specific-transactions/business-asset-transactions/gst-and-the-disposal-of-capital-assets)
-  
-* [ATO: Guide to GST](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst)
-* [ATO: GST and Food](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/food/detailed-food-list)
-* [ATO: GST food and beverage search](https://www.ato.gov.au/single-page-applications/calculatorsandtools#GSTFBSearch/questions)
+* [ATO: Instant asset write-off for eligible businesses](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/depreciation-and-capital-expenses-and-allowances/simpler-depreciation-for-small-business/instant-asset-write-off)
   
 * [ATO: Small business benchmarks](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/small-business-benchmarks)
 * [ATO: Legal Database](https://www.ato.gov.au/single-page-applications/legaldatabase#Law)
@@ -55,30 +77,13 @@
 * [ATO: Set up a Payment Plan](https://www.ato.gov.au/individuals-and-families/paying-the-ato/help-with-paying)
 * [ATO: Payment Plan Estimator](https://www.ato.gov.au/calculators-and-tools/payments-payment-plan-estimator)
 
+
 ### Bookkeeping FAQ's 
 * [List of Overseas Subscriptions with GST and ABN](https://avers.com.au/Bookkeeping/Blog/List-of-Overseas-Subscriptions-with-GST-and-ABN/)
 * [Can I claim the GST on that?](https://www.e-bas.com.au/can-i-claim-the-gst-on-that/)
 * [Reimbursement of Expenses – Principal or Agent](https://webbmartinconsulting.com.au/tax-news/gst-and-reimbursement-of-expenses-2/)
 * [Common GST Mistakes](https://www.e-bas.com.au/common-gst-mistakes/)
 
-### Online forms
-* [ATO: TFN and Superannuation Forms and instructions](https://www.ato.gov.au/forms-and-instructions#sortCriteria=%40dateupdated%20descending)
-
-### Fairwork and Payroll Support 
-* [Fairwork: Fast Food Industry Award](https://www.fairwork.gov.au/find-help-for/fast-food-restaurants-cafes/fast-food-industry)
-* [Fairwork](https://www.fwc.gov.au/)
-* [Payroll Support](https://support.yourpayroll.com.au/hc/en-au/articles/5015381108111-Electrical-Electronic-and-Communications-Contracting-Award-2020-MA000025)
-
-### Online tools
-* [ABN Lookup](https://abr.business.gov.au/Search)
-* [ABN Lookup Advanced Search](https://www.abr.business.gov.au/Search/Advanced)
-* [BSB Lookup](https://bsb.auspaynet.com.au/)
-* [Tax withheld calculator](https://www.ato.gov.au/Calculators-and-tools/Tax-withheld-calculator)
-* [AU wages calculator](https://paycalculator.com.au/)
-* [Currency converter](https://www.xe.com/)
-* [ilovepDF](https://www.ilovepdf.com/)
-* [Time Duration Calculator](https://www.calculator.net/time-duration-calculator.html?starthour=7&startmin=00&startsec=0&startunit=a&endhour=8&endmin=15&endsec=0&endunit=a&ctype=1&x=53&y=21)
-* [Amortisation calculator](https://www.bretwhissel.net/cgi-bin/amortize)
 
 ### Xero helpful links
 * [Xero Central Support](https://central.xero.com/s/)
