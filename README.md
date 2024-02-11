@@ -43,7 +43,7 @@
 ### Books | Guides
 * [Xero Tips and Tricks](https://drive.google.com/file/d/1bhPtIE0mDe_jCmGJwXNpHDidChhEQu8H/view?usp=share_link)
 * [Learning Xero](https://drive.google.com/file/d/1EeWpHJpysXO2_Aa_Xvt0NNfmqgFTnUgg/view?usp=share_link)
-* [Connecting with Xero](https://drive.google.com/file/d/1cLfKnuz2yBPhl6Jg6uFfxnU0vHdMioZ_/view?usp=sharing)
+* [Connecting with Xero - Financial Institutions](https://drive.google.com/file/d/1cLfKnuz2yBPhl6Jg6uFfxnU0vHdMioZ_/view?usp=sharing)
 * [Migration Certification Part 1 Quick Reference Guide](https://drive.google.com/file/d/1Amftv8F1LNCn5j7wqMyDptsG-oXBFJQb/view?usp=share_link)
 * [Migration Certification Part 2 Quick Reference Guide](https://drive.google.com/file/d/1s_VKB0FMeJXDEUDo7WOIGEmAWAw3UeTr/view?usp=sharing)
 * [Migration Certification Part 3 Quick Reference Guide](https://drive.google.com/file/d/1bWn_jWVj9d58zQZeOpdcwBry01mH5b3t/view?usp=sharing)
