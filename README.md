@@ -8,12 +8,12 @@
 * [ATO Tax withheld calculator](https://www.ato.gov.au/Calculators-and-tools/Tax-withheld-calculator)
 * [AU wages calculator](https://paycalculator.com.au/)
 * [XE.com - Currency converter](https://www.xe.com/)
-* [ilovepDF - convert PDF to CSV](https://www.ilovepdf.com/)
+* [ilovePDF - convert PDF to CSV](https://www.ilovepdf.com/)
 * [Time Duration Calculator](https://www.calculator.net/time-duration-calculator.html?starthour=7&startmin=00&startsec=0&startunit=a&endhour=8&endmin=15&endsec=0&endunit=a&ctype=1&x=53&y=21)
 * [Amortisation calculator](https://www.bretwhissel.net/cgi-bin/amortize)
 
 
-### Gsheet Finder (created by Delsi)
+### Gsheet Finder (created by me)
 * [Search: GST on food](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=1842926729)
 * [Search: GST on Overseas subscription](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=1733277696)
 
