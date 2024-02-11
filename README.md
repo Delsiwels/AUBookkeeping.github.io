@@ -17,6 +17,10 @@
 * [Search: GST on food](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=1842926729)
 * [Search: GST on Overseas subscription](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=1733277696)
 
+
+### AI
+* [AI Assist for Gemini™ in Sheets™ and Docs](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=766325491)
+
 ### Online forms
 * [ATO: TFN and Superannuation Forms and instructions](https://www.ato.gov.au/forms-and-instructions#sortCriteria=%40dateupdated%20descending)
 
