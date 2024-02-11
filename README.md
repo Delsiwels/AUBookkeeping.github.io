@@ -1,30 +1,17 @@
-# Bookkeeping Resources
-
-
-### Software
-* [Xero](https://www.xero.com/au/login/)
-* [Quickbooks](https://accounts.intuit.com/app/sign-in?app_group=QBO&asset_alias=Intuit.accounting.core.qbowebapp&locale=en-AU&state=%7B%22queryParams%22%3A%7B%22locale%22%3A%22en-AU%22%7D%7D&app_environment=prod)
-* [Dext](https://app.dext.com/login/)
-* [Lightyear](https://app.lightyear.cloud/login)
-* [Hubdoc](https://app.hubdoc.com/login)
-* [Deputy](https://once.deputy.com/my/login?redirect_url=https%3A%2F%2Fonce.deputy.com%2Fmy%2F)
-* [Tanda](https://my.tanda.co/login)
-* [Keypay](https://keypay.yourpayroll.com.au/)
-* [Employment Hero](https://employmenthero.yourpayroll.com.au/)
-* [Cliniko](https://www.cliniko.com/login/)
-* [Practice Protect Support](https://support.practiceprotect.com/get-in-contact/)
+# Bookkeeping Resources List
 
 
 ### Online tools
 * [ABN Lookup](https://abr.business.gov.au/Search)
 * [ABN Lookup Advanced Search](https://www.abr.business.gov.au/Search/Advanced)
 * [BSB Lookup](https://bsb.auspaynet.com.au/)
-* [Tax withheld calculator](https://www.ato.gov.au/Calculators-and-tools/Tax-withheld-calculator)
+* [ATO Tax withheld calculator](https://www.ato.gov.au/Calculators-and-tools/Tax-withheld-calculator)
 * [AU wages calculator](https://paycalculator.com.au/)
 * [XE.com - Currency converter](https://www.xe.com/)
 * [ilovepDF - convert PDF to CSV](https://www.ilovepdf.com/)
 * [Time Duration Calculator](https://www.calculator.net/time-duration-calculator.html?starthour=7&startmin=00&startsec=0&startunit=a&endhour=8&endmin=15&endsec=0&endunit=a&ctype=1&x=53&y=21)
 * [Amortisation calculator](https://www.bretwhissel.net/cgi-bin/amortize)
+
 
 
 ### Online forms
@@ -39,6 +26,15 @@
 
 
 
+### Bookkeeping FAQ's 
+* [List of Overseas Subscriptions with GST and ABN](https://avers.com.au/Bookkeeping/Blog/List-of-Overseas-Subscriptions-with-GST-and-ABN/)
+* [Can I claim the GST on that?](https://www.e-bas.com.au/can-i-claim-the-gst-on-that/)
+* [Reimbursement of Expenses – Principal or Agent](https://webbmartinconsulting.com.au/tax-news/gst-and-reimbursement-of-expenses-2/)
+* [Common GST Mistakes](https://www.e-bas.com.au/common-gst-mistakes/)
+* [Bookkeeping Behind TPAR](https://www.e-bas.com.au/the-bookkeeping-behind-the-taxable-payments-annual-report/)
+
+
+  
 ### Vicroads
 * [Transport Accident Charges including GST and Duty](https://www.tac.vic.gov.au/__data/assets/pdf_file/0004/758686/TAC-Premiums-2023_24.pdf)
 * [Vicroads Vehicle fees](https://www.vicroads.vic.gov.au/registration/registration-fees/vehicle-registration-fees)
@@ -69,6 +65,8 @@
 * [ATO: Assets & Exclusions](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/depreciation-and-capital-expenses-and-allowances/simpler-depreciation-for-small-business/assets-and-exclusions)
 * [ATO: GST and the Disposal of Capital Assets](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/rules-for-specific-transactions/business-asset-transactions/gst-and-the-disposal-of-capital-assets)
 * [ATO: Instant asset write-off for eligible businesses](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/depreciation-and-capital-expenses-and-allowances/simpler-depreciation-for-small-business/instant-asset-write-off)
+
+* [ATO: Taxable payments annual report (TPAR)](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/taxable-payments-annual-report)
   
 * [ATO: Small business benchmarks](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/small-business-benchmarks)
 * [ATO: Legal Database](https://www.ato.gov.au/single-page-applications/legaldatabase#Law)
@@ -78,17 +76,23 @@
 * [ATO: Payment Plan Estimator](https://www.ato.gov.au/calculators-and-tools/payments-payment-plan-estimator)
 
 
-### Bookkeeping FAQ's 
-* [List of Overseas Subscriptions with GST and ABN](https://avers.com.au/Bookkeeping/Blog/List-of-Overseas-Subscriptions-with-GST-and-ABN/)
-* [Can I claim the GST on that?](https://www.e-bas.com.au/can-i-claim-the-gst-on-that/)
-* [Reimbursement of Expenses – Principal or Agent](https://webbmartinconsulting.com.au/tax-news/gst-and-reimbursement-of-expenses-2/)
-* [Common GST Mistakes](https://www.e-bas.com.au/common-gst-mistakes/)
-
-
 ### Xero helpful links
 * [Xero Central Support](https://central.xero.com/s/)
 * [Xero Central Learning](https://central.xero.com/s/learning)
 * [Xero Partner Tips & Tricks](https://central.xero.com/s/question/0D53m00007f8Wg8CAE/skill-up-share-your-xero-partner-tips-with-your-community)
 * [Resolve Xero Tax error messages](https://central.xero.com/s/article/Getting-an-error-message-in-Xero-Tax#GeneralXeroTaxerrors)
-  
+
+
+### Website links
+* _[Xero](https://www.xero.com/au/login/)_
+* _[Quickbooks](https://accounts.intuit.com/app/sign-in?app_group=QBO&asset_alias=Intuit.accounting.core.qbowebapp&locale=en-AU&state=%7B%22queryParams%22%3A%7B%22locale%22%3A%22en-AU%22%7D%7D&app_environment=prod)_
+* _[Dext](https://app.dext.com/login/)_
+* _[Lightyear](https://app.lightyear.cloud/login)_
+* _[Hubdoc](https://app.hubdoc.com/login)_
+* _[Deputy](https://once.deputy.com/my/login?redirect_url=https%3A%2F%2Fonce.deputy.com%2Fmy%2F)_
+* _[Tanda](https://my.tanda.co/login)_
+* _[Keypay](https://keypay.yourpayroll.com.au/)_
+* _[Employment Hero](https://employmenthero.yourpayroll.com.au/)_
+* _[Cliniko](https://www.cliniko.com/login/)_
+* _[Practice Protect Support](https://support.practiceprotect.com/get-in-contact/)_
 
