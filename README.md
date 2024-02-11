@@ -34,6 +34,7 @@
 
 
 ### Bookkeeping FAQ's 
+* [Xero Tips and Tricks](https://drive.google.com/file/d/1bhPtIE0mDe_jCmGJwXNpHDidChhEQu8H/view?usp=share_link)
 * [List of Overseas Subscriptions with GST and ABN](https://avers.com.au/Bookkeeping/Blog/List-of-Overseas-Subscriptions-with-GST-and-ABN/)
 * [Can I claim the GST on that?](https://www.e-bas.com.au/can-i-claim-the-gst-on-that/)
 * [Reimbursement of Expenses – Principal or Agent](https://webbmartinconsulting.com.au/tax-news/gst-and-reimbursement-of-expenses-2/)
