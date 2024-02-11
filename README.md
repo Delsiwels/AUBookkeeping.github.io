@@ -34,14 +34,15 @@
 
 
 ### Bookkeeping FAQ's 
-* [Xero Tips and Tricks](https://drive.google.com/file/d/1bhPtIE0mDe_jCmGJwXNpHDidChhEQu8H/view?usp=share_link)
 * [List of Overseas Subscriptions with GST and ABN](https://avers.com.au/Bookkeeping/Blog/List-of-Overseas-Subscriptions-with-GST-and-ABN/)
 * [Can I claim the GST on that?](https://www.e-bas.com.au/can-i-claim-the-gst-on-that/)
 * [Reimbursement of Expenses – Principal or Agent](https://webbmartinconsulting.com.au/tax-news/gst-and-reimbursement-of-expenses-2/)
 * [Common GST Mistakes](https://www.e-bas.com.au/common-gst-mistakes/)
 * [Bookkeeping Behind TPAR](https://www.e-bas.com.au/the-bookkeeping-behind-the-taxable-payments-annual-report/)
 
-
+### Books
+* [Xero Tips and Tricks](https://drive.google.com/file/d/1bhPtIE0mDe_jCmGJwXNpHDidChhEQu8H/view?usp=share_link)
+* [Learning Xero](https://drive.google.com/file/d/1EeWpHJpysXO2_Aa_Xvt0NNfmqgFTnUgg/view?usp=share_link)
   
 ### Vicroads
 * [Transport Accident Charges including GST and Duty](https://www.tac.vic.gov.au/__data/assets/pdf_file/0004/758686/TAC-Premiums-2023_24.pdf)
