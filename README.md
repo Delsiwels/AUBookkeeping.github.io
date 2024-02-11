@@ -111,6 +111,10 @@
 * _[Cliniko](https://www.cliniko.com/login/)_
 * _[Practice Protect Support](https://support.practiceprotect.com/get-in-contact/)_
 
+### My Projects
+* [Salary and withholding tax calculator website for Employed Filipino workers in the Philippines](https://portfolio-1acc0.web.app/)
+  
+
 ### Contact me
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="delsi-sierra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/delsi-sierra?trk=profile-badge">Linkedin</a></div> 
 [Substack](https://substack.com/@delsi) <br />
