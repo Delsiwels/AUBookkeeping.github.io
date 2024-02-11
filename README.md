@@ -40,7 +40,7 @@
 * [Common GST Mistakes](https://www.e-bas.com.au/common-gst-mistakes/)
 * [Bookkeeping Behind TPAR](https://www.e-bas.com.au/the-bookkeeping-behind-the-taxable-payments-annual-report/)
 
-### Books
+### Books | Guides
 * [Xero Tips and Tricks](https://drive.google.com/file/d/1bhPtIE0mDe_jCmGJwXNpHDidChhEQu8H/view?usp=share_link)
 * [Learning Xero](https://drive.google.com/file/d/1EeWpHJpysXO2_Aa_Xvt0NNfmqgFTnUgg/view?usp=share_link)
 * [Connecting with Xero](https://drive.google.com/file/d/1cLfKnuz2yBPhl6Jg6uFfxnU0vHdMioZ_/view?usp=sharing)
@@ -48,6 +48,7 @@
 * [Migration Certification Part 2 Quick Reference Guide](https://drive.google.com/file/d/1s_VKB0FMeJXDEUDo7WOIGEmAWAw3UeTr/view?usp=sharing)
 * [Migration Certification Part 3 Quick Reference Guide](https://drive.google.com/file/d/1bWn_jWVj9d58zQZeOpdcwBry01mH5b3t/view?usp=sharing)
 * [Migration Certification Part 4 Quick Reference Guide](https://drive.google.com/file/d/1Tp9abfDi50SwtTsHiHg9Ho3M2KtWPcfb/view?usp=share_link)
+* [Xero Master COA](https://drive.google.com/file/d/1ZS70Fhe8MoNWk2Y_siaDlGpYOTnbnebq/view?usp=share_link)
   
 ### Vicroads
 * [Transport Accident Charges including GST and Duty](https://www.tac.vic.gov.au/__data/assets/pdf_file/0004/758686/TAC-Premiums-2023_24.pdf)
