@@ -84,10 +84,10 @@
   
 * [ATO: Small business benchmarks](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/small-business-benchmarks)
 * [ATO: Legal Database](https://www.ato.gov.au/single-page-applications/legaldatabase#Law)
-* [ATO: Find tax and super answers with ATO Community](https://community.ato.gov.au/s/)
+* [Find tax and super answers with ATO Community](https://community.ato.gov.au/s/)
 
 * [Can I claim GST on purchase of airbnb residential property?](https://community.ato.gov.au/s/question/a0J9s000000QVkp/p00217710)
-* [Is GST applicable to AirBnb rental income](https://community.ato.gov.au/s/question/a0J9s000000NyNPEA0/p00196697?referrer=a0N9s000000DacIEAS)
+* [Is GST applicable to AirBnb rental income?](https://community.ato.gov.au/s/question/a0J9s000000NyNPEA0/p00196697?referrer=a0N9s000000DacIEAS)
 
 * [ATO: Set up a Payment Plan](https://www.ato.gov.au/individuals-and-families/paying-the-ato/help-with-paying)
 * [ATO: Payment Plan Estimator](https://www.ato.gov.au/calculators-and-tools/payments-payment-plan-estimator)
