@@ -16,6 +16,7 @@
 ### Gsheet Finder (created by me)
 * [Search: GST on food](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=1842926729)
 * [Search: GST on Overseas subscription](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=1733277696)
+* [Can I claim the GST on that?](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=690612485))
 
 
 ### AI
@@ -34,8 +35,6 @@
 
 
 ### Bookkeeping FAQ's 
-* [List of Overseas Subscriptions with GST and ABN](https://avers.com.au/Bookkeeping/Blog/List-of-Overseas-Subscriptions-with-GST-and-ABN/)
-* [Can I claim the GST on that?](https://www.e-bas.com.au/can-i-claim-the-gst-on-that/)
 * [Reimbursement of Expenses – Principal or Agent](https://webbmartinconsulting.com.au/tax-news/gst-and-reimbursement-of-expenses-2/)
 * [Common GST Mistakes](https://www.e-bas.com.au/common-gst-mistakes/)
 * [Bookkeeping Behind TPAR](https://www.e-bas.com.au/the-bookkeeping-behind-the-taxable-payments-annual-report/)
