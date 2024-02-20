@@ -27,10 +27,13 @@
 
 
 
-### Fairwork and Payroll Support 
+### Payroll 
 * [Fairwork: Fast Food Industry Award](https://www.fairwork.gov.au/find-help-for/fast-food-restaurants-cafes/fast-food-industry)
 * [Fairwork](https://www.fwc.gov.au/)
 * [Payroll Support](https://support.yourpayroll.com.au/hc/en-au/articles/5015381108111-Electrical-Electronic-and-Communications-Contracting-Award-2020-MA000025)
+* [Payroll Tax: FAQ](https://www.e-bas.com.au/payroll-tax-what-who-why-how-much/)
+* [ATO: How Payroll Tax Works](https://business.gov.au/finance/taxation/payroll-tax)
+* [Payroll Tax Resources](https://www.payrolltax.gov.au/resources#resources__rates_and_thresholds)
 
 
 
