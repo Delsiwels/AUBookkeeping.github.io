@@ -34,6 +34,7 @@
 * [Payroll Tax: FAQ](https://www.e-bas.com.au/payroll-tax-what-who-why-how-much/)
 * [ATO: How Payroll Tax Works](https://business.gov.au/finance/taxation/payroll-tax)
 * [Payroll Tax Resources](https://www.payrolltax.gov.au/resources#resources__rates_and_thresholds)
+* [Workcover](https://www.worksafe.vic.gov.au/resources/insurance-premium-simulator-spreadsheet)
 
 
 
@@ -41,6 +42,8 @@
 * [Reimbursement of Expenses – Principal or Agent](https://webbmartinconsulting.com.au/tax-news/gst-and-reimbursement-of-expenses-2/)
 * [Common GST Mistakes](https://www.e-bas.com.au/common-gst-mistakes/)
 * [Bookkeeping Behind TPAR](https://www.e-bas.com.au/the-bookkeeping-behind-the-taxable-payments-annual-report/)
+* [Staff Amenities vs Entertainment](https://procureaccounting.com.au/staff-amenities-vs-entertainment/)
+* [ATO clarity on work related travel and meal expense deductions](https://www.ulton.net/blog/ato-clarity-on-work-related-travel-and-meal-expense-deductions)
 
 ### Books | Guides
 * [Xero Tips and Tricks](https://drive.google.com/file/d/1bhPtIE0mDe_jCmGJwXNpHDidChhEQu8H/view?usp=share_link)
