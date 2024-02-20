@@ -42,8 +42,10 @@
 * [Reimbursement of Expenses – Principal or Agent](https://webbmartinconsulting.com.au/tax-news/gst-and-reimbursement-of-expenses-2/)
 * [Common GST Mistakes](https://www.e-bas.com.au/common-gst-mistakes/)
 * [Bookkeeping Behind TPAR](https://www.e-bas.com.au/the-bookkeeping-behind-the-taxable-payments-annual-report/)
+* [TPAR: Employee or contractor](https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-contractor)
 * [Staff Amenities vs Entertainment](https://procureaccounting.com.au/staff-amenities-vs-entertainment/)
 * [ATO clarity on work related travel and meal expense deductions](https://www.ulton.net/blog/ato-clarity-on-work-related-travel-and-meal-expense-deductions)
+
 
 ### Books | Guides
 * [Xero Tips and Tricks](https://drive.google.com/file/d/1bhPtIE0mDe_jCmGJwXNpHDidChhEQu8H/view?usp=share_link)
@@ -94,6 +96,8 @@
 
 * [Can I claim GST on purchase of airbnb residential property?](https://community.ato.gov.au/s/question/a0J9s000000QVkp/p00217710)
 * [Is GST applicable to AirBnb rental income?](https://community.ato.gov.au/s/question/a0J9s000000NyNPEA0/p00196697?referrer=a0N9s000000DacIEAS)
+
+* [How to vary your PAYG instalments](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/payg-instalments/how-to-vary-your-payg-instalments)
 
 * [ATO: Set up a Payment Plan](https://www.ato.gov.au/individuals-and-families/paying-the-ato/help-with-paying)
 * [ATO: Payment Plan Estimator](https://www.ato.gov.au/calculators-and-tools/payments-payment-plan-estimator)
