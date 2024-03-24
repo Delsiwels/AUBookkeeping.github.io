@@ -74,6 +74,9 @@
 * [Find tax and super answers with ATO Community](https://community.ato.gov.au/s/)
 
 ## Xero helpful links
+* [Xero Guides: Steps to ensure a seamless EOFY in Xero Payroll](https://blog.xero.com/small-business-resources/steps-to-a-seamless-eofy/)
+* [Xero Guides: How to do payroll](https://community.ato.gov.au/s/)
+* [Xero Guides: The bookkeeping tasks you should know](https://www.xero.com/au/guides/how-to-do-bookkeeping/)
 * [Xero Central Support](https://central.xero.com/s/)
 * [Xero Central Learning](https://central.xero.com/s/learning)
 * [Xero Partner Tips & Tricks](https://central.xero.com/s/question/0D53m00007f8Wg8CAE/skill-up-share-your-xero-partner-tips-with-your-community)
