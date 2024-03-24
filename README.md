@@ -35,6 +35,9 @@
 * [ATO: How Payroll Tax Works](https://business.gov.au/finance/taxation/payroll-tax)
 * [Payroll Tax Resources](https://www.payrolltax.gov.au/resources#resources__rates_and_thresholds)
 * [Workcover](https://www.worksafe.vic.gov.au/resources/insurance-premium-simulator-spreadsheet)
+* [ATO: PAYG withholding tax tables](https://www.ato.gov.au/tax-rates-and-codes/tax-tables-overview)
+* [ATO: STSL Calculator](https://www.ato.gov.au/calculators-and-tools/study-and-training-loan-repayment-calculator)
+* [Calculate Long Service Leave](https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/calculate-long-service-leave)
 
 
 
@@ -66,42 +69,11 @@
 * [ATO: Key lodgment and payment dates for clients of registered agents for 2023–24](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/prepare-and-lodge/due-dates)
 * [ATO: Key lodgment and payment dates for Businesses & Organisations](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/due-dates-for-lodging-and-paying/due-dates-by-month)
 
-* [ATO: PAYG withholding tax tables](https://www.ato.gov.au/tax-rates-and-codes/tax-tables-overview)
-* [ATO: STSL Calculator](https://www.ato.gov.au/calculators-and-tools/study-and-training-loan-repayment-calculator)
-* [Calculate Long Service Leave](https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/calculate-long-service-leave)
-
-* [ATO: Explains how goods and services tax (GST) works and what you need to do to meet your GST obligations](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst)
-* [ATO: Common entertainment scenarios for business](https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/fringe-benefits-tax/types-of-fringe-benefits/entertainment-related-fringe-benefits/common-entertainment-scenarios-for-business)
-* [ATO: GST and Food](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/food/gst-and-food)
-* [ATO: GST and Health](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/gst-and-health)
-* [ATO: GST food and beverage search](https://www.ato.gov.au/single-page-applications/calculatorsandtools#GSTFBSearch/questions)
-  
-* [ATO: Fuel Tax Credits - Business](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/fuel-schemes/fuel-tax-credits-business)
-* [Fuel tax credits calculation worksheet](https://www.ato.gov.au/forms-and-instructions/fuel-tax-credits-calculation-worksheet)
+* [Collection of Bookkeeping Topics and Resources Links](https://docs.google.com/spreadsheets/d/1LsqbInpHpnWJhvXSNGTfbQoeXFC4JudoC0932d8231s/edit?usp=sharing)
 * [ATO: Fuel Tax credit calculator](https://www.ato.gov.au/single-page-applications/calculatorsandtools#FTCCalc/questions)
-* [ATO: Fuel Tax Credit tools](https://www.ato.gov.au/Calculators-and-tools/Fuel-tax-credit-tools)
-  
-* [ATO: About GST and motor vehicles](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/motor-vehicle-and-transport/gst-and-motor-vehicles/about-gst-and-motor-vehicles#Purchasing_a_motor_vehicle)
 * [ATO: Claiming a tax deduction for motor vehicle expenses and Car LIMIT](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/depreciation-and-capital-expenses-and-allowances/simpler-depreciation-for-small-business/instant-asset-write-off)
-  
-* [ATO: Assets & Exclusions](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/depreciation-and-capital-expenses-and-allowances/simpler-depreciation-for-small-business/assets-and-exclusions)
-* [ATO: GST and the Disposal of Capital Assets](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/rules-for-specific-transactions/business-asset-transactions/gst-and-the-disposal-of-capital-assets)
-* [ATO: Instant asset write-off for eligible businesses](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/depreciation-and-capital-expenses-and-allowances/simpler-depreciation-for-small-business/instant-asset-write-off)
-
 * [ATO: Taxable payments annual report (TPAR)](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/taxable-payments-annual-report)
-  
-* [ATO: Small business benchmarks](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/small-business-benchmarks)
-* [ATO: Legal Database](https://www.ato.gov.au/single-page-applications/legaldatabase#Law)
 * [Find tax and super answers with ATO Community](https://community.ato.gov.au/s/)
-
-* [Can I claim GST on purchase of airbnb residential property?](https://community.ato.gov.au/s/question/a0J9s000000QVkp/p00217710)
-* [Is GST applicable to AirBnb rental income?](https://community.ato.gov.au/s/question/a0J9s000000NyNPEA0/p00196697?referrer=a0N9s000000DacIEAS)
-
-* [How to vary your PAYG instalments](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/payg-instalments/how-to-vary-your-payg-instalments)
-
-* [ATO: Set up a Payment Plan](https://www.ato.gov.au/individuals-and-families/paying-the-ato/help-with-paying)
-* [ATO: Payment Plan Estimator](https://www.ato.gov.au/calculators-and-tools/payments-payment-plan-estimator)
-
 
 ## Xero helpful links
 * [Xero Central Support](https://central.xero.com/s/)
