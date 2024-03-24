@@ -1,7 +1,7 @@
 # Bookkeeping Online Resources List
 
 
-### Online tools
+## Online tools
 * [ABN Lookup](https://abr.business.gov.au/Search)
 * [ABN Lookup Advanced Search](https://www.abr.business.gov.au/Search/Advanced)
 * [BSB Lookup](https://bsb.auspaynet.com.au/)
@@ -13,21 +13,21 @@
 * [Amortisation calculator](https://www.bretwhissel.net/cgi-bin/amortize)
 
 
-### Gsheet Finder (created by me)
+## Gsheet Finder (created by me)
  * [Search: GST on food](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=1842926729)
  * [Search: GST on Overseas subscription](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=1733277696)
  * [Search: Can I claim the GST on that?](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=690612485)
 
 
-### AI
+## AI
 * [AI Assist for Gemini™ in Sheets™ and Docs](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=766325491)
 
-### Online forms
+## Online forms
 * [ATO: TFN and Superannuation Forms and instructions](https://www.ato.gov.au/forms-and-instructions#sortCriteria=%40dateupdated%20descending)
 
 
 
-### Payroll 
+## Payroll 
 * [Fairwork: Fast Food Industry Award](https://www.fairwork.gov.au/find-help-for/fast-food-restaurants-cafes/fast-food-industry)
 * [Fairwork](https://www.fwc.gov.au/)
 * [Payroll Support](https://support.yourpayroll.com.au/hc/en-au/articles/5015381108111-Electrical-Electronic-and-Communications-Contracting-Award-2020-MA000025)
@@ -38,7 +38,7 @@
 
 
 
-### Bookkeeping FAQ's 
+## Bookkeeping FAQ's 
 * [Reimbursement of Expenses – Principal or Agent](https://webbmartinconsulting.com.au/tax-news/gst-and-reimbursement-of-expenses-2/)
 * [Common GST Mistakes](https://www.e-bas.com.au/common-gst-mistakes/)
 * [Bookkeeping Behind TPAR](https://www.e-bas.com.au/the-bookkeeping-behind-the-taxable-payments-annual-report/)
@@ -47,7 +47,7 @@
 * [ATO clarity on work related travel and meal expense deductions](https://www.ulton.net/blog/ato-clarity-on-work-related-travel-and-meal-expense-deductions)
 
 
-### Books | Guides
+## Books | Guides
 * [Xero Tips and Tricks](https://drive.google.com/file/d/1bhPtIE0mDe_jCmGJwXNpHDidChhEQu8H/view?usp=share_link)
 * [Learning Xero](https://drive.google.com/file/d/1EeWpHJpysXO2_Aa_Xvt0NNfmqgFTnUgg/view?usp=share_link)
 * [Connecting with Xero - Financial Institutions](https://drive.google.com/file/d/1cLfKnuz2yBPhl6Jg6uFfxnU0vHdMioZ_/view?usp=sharing)
@@ -57,7 +57,7 @@
 * [Migration Certification Part 4 Quick Reference Guide](https://drive.google.com/file/d/1Tp9abfDi50SwtTsHiHg9Ho3M2KtWPcfb/view?usp=share_link)
 * [Xero Master COA](https://drive.google.com/file/d/1ZS70Fhe8MoNWk2Y_siaDlGpYOTnbnebq/view?usp=share_link)
   
-### Vicroads
+## Vicroads
 * [Transport Accident Charges including GST and Duty](https://www.tac.vic.gov.au/__data/assets/pdf_file/0004/758686/TAC-Premiums-2023_24.pdf)
 * [Vicroads Vehicle fees](https://www.vicroads.vic.gov.au/registration/registration-fees/vehicle-registration-fees)
 
@@ -103,14 +103,14 @@
 * [ATO: Payment Plan Estimator](https://www.ato.gov.au/calculators-and-tools/payments-payment-plan-estimator)
 
 
-### Xero helpful links
+## Xero helpful links
 * [Xero Central Support](https://central.xero.com/s/)
 * [Xero Central Learning](https://central.xero.com/s/learning)
 * [Xero Partner Tips & Tricks](https://central.xero.com/s/question/0D53m00007f8Wg8CAE/skill-up-share-your-xero-partner-tips-with-your-community)
 * [Resolve Xero Tax error messages](https://central.xero.com/s/article/Getting-an-error-message-in-Xero-Tax#GeneralXeroTaxerrors)
 
 
-### Website links
+## Website links
 * _[Xero](https://www.xero.com/au/login/)_
 * _[Quickbooks](https://accounts.intuit.com/app/sign-in?app_group=QBO&asset_alias=Intuit.accounting.core.qbowebapp&locale=en-AU&state=%7B%22queryParams%22%3A%7B%22locale%22%3A%22en-AU%22%7D%7D&app_environment=prod)_
 * _[Dext](https://app.dext.com/login/)_
@@ -123,11 +123,11 @@
 * _[Cliniko](https://www.cliniko.com/login/)_
 * _[Practice Protect Support](https://support.practiceprotect.com/get-in-contact/)_
 
-### My Projects
+## My Projects
 * [Salary and withholding tax calculator website for Employed Filipino workers in the Philippines](https://portfolio-1acc0.web.app/)
   
 
-### Contact me
+## Contact me
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="delsi-sierra" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ph.linkedin.com/in/delsi-sierra?trk=profile-badge">Linkedin</a></div> 
 [Substack](https://substack.com/@delsi) <br />
 [X (Twitter)](https://twitter.com/delsiwels) <br />
