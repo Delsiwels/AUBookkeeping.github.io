@@ -20,10 +20,8 @@
  * [Collection of Bookkeeping Topics and Resources Links](https://docs.google.com/spreadsheets/d/1LsqbInpHpnWJhvXSNGTfbQoeXFC4JudoC0932d8231s/edit?usp=sharing)
 
 
-
 ## Online forms
 * [ATO: TFN and Superannuation Forms and instructions](https://www.ato.gov.au/forms-and-instructions#sortCriteria=%40dateupdated%20descending)
-
 
 
 ## Payroll 
@@ -40,16 +38,13 @@
 * [ATO: PAYG withholding tax tables](https://www.ato.gov.au/tax-rates-and-codes/tax-tables-overview)
 * [ATO: STSL Calculator](https://www.ato.gov.au/calculators-and-tools/study-and-training-loan-repayment-calculator)
 * [Calculate Long Service Leave](https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/calculate-long-service-leave)
+  
 
-
-
-## Bookkeeping FAQ's 
-* [Reimbursement of Expenses – Principal or Agent](https://webbmartinconsulting.com.au/tax-news/gst-and-reimbursement-of-expenses-2/)
-* [Common GST Mistakes](https://www.e-bas.com.au/common-gst-mistakes/)
+## TPAR
+* [ATO: Taxable payments annual report (TPAR)](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/taxable-payments-annual-report)
 * [Bookkeeping Behind TPAR](https://www.e-bas.com.au/the-bookkeeping-behind-the-taxable-payments-annual-report/)
 * [TPAR: Employee or contractor](https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-contractor)
-* [Staff Amenities vs Entertainment](https://procureaccounting.com.au/staff-amenities-vs-entertainment/)
-* [ATO clarity on work related travel and meal expense deductions](https://www.ulton.net/blog/ato-clarity-on-work-related-travel-and-meal-expense-deductions)
+* [ATO clarity on work-related travel and meal expense deductions](https://www.ulton.net/blog/ato-clarity-on-work-related-travel-and-meal-expense-deductions)
 
 
 ## Books | Guides
@@ -73,7 +68,9 @@
 * [ATO: Key lodgment and payment dates for Businesses & Organisations](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/due-dates-for-lodging-and-paying/due-dates-by-month)
 * [ATO: Fuel Tax credit calculator](https://www.ato.gov.au/single-page-applications/calculatorsandtools#FTCCalc/questions)
 * [ATO: Claiming a tax deduction for motor vehicle expenses and Car LIMIT](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/depreciation-and-capital-expenses-and-allowances/simpler-depreciation-for-small-business/instant-asset-write-off)
-* [ATO: Taxable payments annual report (TPAR)](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/taxable-payments-annual-report)
+
+
+## ATO Community
 * [Find tax and super answers with ATO Community](https://community.ato.gov.au/s/)
 
 ## Xero helpful links
