@@ -40,13 +40,6 @@
 * [Calculate Long Service Leave](https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/calculate-long-service-leave)
   
 
-## TPAR
-* [ATO: Taxable payments annual report (TPAR)](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/taxable-payments-annual-report)
-* [Bookkeeping Behind TPAR](https://www.e-bas.com.au/the-bookkeeping-behind-the-taxable-payments-annual-report/)
-* [TPAR: Employee or contractor](https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-contractor)
-* [ATO clarity on work-related travel and meal expense deductions](https://www.ulton.net/blog/ato-clarity-on-work-related-travel-and-meal-expense-deductions)
-
-
 ## Books | Guides
 * [Xero Tips and Tricks](https://drive.google.com/file/d/1bhPtIE0mDe_jCmGJwXNpHDidChhEQu8H/view?usp=share_link)
 * [Learning Xero](https://drive.google.com/file/d/1EeWpHJpysXO2_Aa_Xvt0NNfmqgFTnUgg/view?usp=share_link)
@@ -62,8 +55,12 @@
 * [Vicroads Vehicle fees](https://www.vicroads.vic.gov.au/registration/registration-fees/vehicle-registration-fees)
 
 
-## ATO 
+## TPAR
+* [ATO: Taxable payments annual report (TPAR)](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/taxable-payments-annual-report)
+* [TPAR: Employee or contractor](https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-contractor)
 
+
+## ATO 
 * [ATO: Key lodgment and payment dates for clients of registered agents for 2023–24](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/prepare-and-lodge/due-dates)
 * [ATO: Key lodgment and payment dates for Businesses & Organisations](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/due-dates-for-lodging-and-paying/due-dates-by-month)
 * [ATO: Fuel Tax credit calculator](https://www.ato.gov.au/single-page-applications/calculatorsandtools#FTCCalc/questions)
@@ -72,6 +69,7 @@
 
 ## ATO Community
 * [Find tax and super answers with ATO Community](https://community.ato.gov.au/s/)
+
 
 ## Xero helpful links
 * [Xero Guides: Steps to ensure a seamless EOFY in Xero Payroll](https://blog.xero.com/small-business-resources/steps-to-a-seamless-eofy/)
