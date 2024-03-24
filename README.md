@@ -17,10 +17,9 @@
  * [Search: GST on food](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=1842926729)
  * [Search: GST on Overseas subscription](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=1733277696)
  * [Search: Can I claim the GST on that?](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=690612485)
+ * [Collection of Bookkeeping Topics and Resources Links](https://docs.google.com/spreadsheets/d/1LsqbInpHpnWJhvXSNGTfbQoeXFC4JudoC0932d8231s/edit?usp=sharing)
 
 
-## AI
-* [AI Assist for Gemini™ in Sheets™ and Docs](https://docs.google.com/spreadsheets/d/1-goehBr1RhA5ZqH05dxF648aXvIZNAGiW9stC8ZsquI/edit#gid=766325491)
 
 ## Online forms
 * [ATO: TFN and Superannuation Forms and instructions](https://www.ato.gov.au/forms-and-instructions#sortCriteria=%40dateupdated%20descending)
@@ -67,7 +66,6 @@
 
 ## ATO 
 
-* [Collection of Bookkeeping Topics and Resources Links](https://docs.google.com/spreadsheets/d/1LsqbInpHpnWJhvXSNGTfbQoeXFC4JudoC0932d8231s/edit?usp=sharing)
 * [ATO: Key lodgment and payment dates for clients of registered agents for 2023–24](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/prepare-and-lodge/due-dates)
 * [ATO: Key lodgment and payment dates for Businesses & Organisations](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/due-dates-for-lodging-and-paying/due-dates-by-month)
 * [ATO: Fuel Tax credit calculator](https://www.ato.gov.au/single-page-applications/calculatorsandtools#FTCCalc/questions)
