@@ -39,6 +39,9 @@
 * [ATO: STSL Calculator](https://www.ato.gov.au/calculators-and-tools/study-and-training-loan-repayment-calculator)
 * [Calculate Long Service Leave](https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/calculate-long-service-leave)
   
+## Xero Me
+* [Set up Xero Me for mobile](https://xero.my.site.com/s/article/Xero-Me-for-mobile)
+* [Authorise an employee to approve leave and timesheets](https://central.xero.com/s/article/Authorise-an-employee-to-approve-leave-and-timesheets#:~:text=In%20the%20Payroll%20menu%2C%20select%20Employees.%20Click%20the,leave%2C%20select%20the%20Authorised%20to%20approve%20leave%20checkbox.)
 
 ## Books | Guides
 * [Xero Tips and Tricks](https://drive.google.com/file/d/1bhPtIE0mDe_jCmGJwXNpHDidChhEQu8H/view?usp=share_link)
