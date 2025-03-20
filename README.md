@@ -5,7 +5,6 @@
 * [ABN Lookup](https://abr.business.gov.au/Search)
 * [ABN Lookup Advanced Search](https://www.abr.business.gov.au/Search/Advanced)
 * [BSB Lookup](https://bsb.auspaynet.com.au/)
-* [ATO Tax withheld calculator](https://www.ato.gov.au/Calculators-and-tools/Tax-withheld-calculator)
 * [AU wages calculator](https://paycalculator.com.au/)
 * [XE.com - Currency converter](https://www.xe.com/)
 * [ilovePDF - convert PDF to CSV](https://www.ilovepdf.com/)
@@ -44,6 +43,7 @@
 * [Workcover](https://www.worksafe.vic.gov.au/resources/insurance-premium-simulator-spreadsheet)
 
 ### PAYG Withholding and Payroll Deductions
+* [ATO Tax withheld calculator](https://www.ato.gov.au/Calculators-and-tools/Tax-withheld-calculator)
 * [ATO: PAYG withholding tax tables](https://www.ato.gov.au/tax-rates-and-codes/tax-tables-overview)
 * [Pay as you go (PAYG) withholding Tax Tables](https://www.ato.gov.au/tax-rates-and-codes/tax-tables-overview)
 * [ATO: STL Calculator](https://www.ato.gov.au/calculators-and-tools/study-and-training-loan-repayment-calculator)
