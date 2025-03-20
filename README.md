@@ -10,6 +10,7 @@
 * [XE.com - Currency converter](https://www.xe.com/)
 * [ilovePDF - convert PDF to CSV](https://www.ilovepdf.com/)
 * [Time Duration Calculator](https://www.calculator.net/time-duration-calculator.html?starthour=7&startmin=00&startsec=0&startunit=a&endhour=8&endmin=15&endsec=0&endunit=a&ctype=1&x=53&y=21)
+* [Days calculator](https://www.timeanddate.com/date/duration.html)
 * [Amortisation calculator](https://www.bretwhissel.net/cgi-bin/amortize)
 
 
@@ -22,22 +23,36 @@
 
 ## Online forms
 * [ATO: TFN and Superannuation Forms and instructions](https://www.ato.gov.au/forms-and-instructions#sortCriteria=%40dateupdated%20descending)
+* [ATO: SGC Statement](https://www.ato.gov.au/forms-and-instructions/super-guarantee-charge-sgc-statement#ato-Gettheform)
 
 
 ## Payroll 
+
+### Pay Rates and Awards
 * [Fairwork: Fast Food Industry Award](https://www.fairwork.gov.au/find-help-for/fast-food-restaurants-cafes/fast-food-industry)
 * [Fairwork](https://www.fwc.gov.au/)
 * [Payroll Support](https://support.yourpayroll.com.au/hc/en-au/articles/5015381108111-Electrical-Electronic-and-Communications-Contracting-Award-2020-MA000025)
 * [Deputy: Pay rate library](https://help.deputy.com/hc/en-au/articles/4661165323919-Pay-rate-library#australian-awards)
 * [Deputy: Restaurant Industry Award Guide](https://help.deputy.com/hc/en-au/articles/4661990782479-Restaurant-Industry-Award-RIA-MA000119#h_01GZMZS6D346T9PGS8VFDD3MYQ)
 * [Deputy: Updating pay rates](https://help.deputy.com/hc/en-au/articles/4976714749071-Updating-pay-rates-in-Deputy)
+
+
+### Payroll Tax and Workcover
 * [Payroll Tax: FAQ](https://www.e-bas.com.au/payroll-tax-what-who-why-how-much/)
 * [ATO: How Payroll Tax Works](https://business.gov.au/finance/taxation/payroll-tax)
 * [Payroll Tax Resources](https://www.payrolltax.gov.au/resources#resources__rates_and_thresholds)
 * [Workcover](https://www.worksafe.vic.gov.au/resources/insurance-premium-simulator-spreadsheet)
+
+### PAYG Withholding and Payroll Deductions
 * [ATO: PAYG withholding tax tables](https://www.ato.gov.au/tax-rates-and-codes/tax-tables-overview)
-* [ATO: STSL Calculator](https://www.ato.gov.au/calculators-and-tools/study-and-training-loan-repayment-calculator)
-* [Calculate Long Service Leave](https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/calculate-long-service-leave)
+* [Pay as you go (PAYG) withholding Tax Tables]([https://www.ato.gov.au/api/public/content/5c8c64b28f5f41659fee1ba9c04d81d0?v=5e9b44f2](https://www.ato.gov.au/tax-rates-and-codes/tax-tables-overview)
+* [ATO: STL Calculator](https://www.ato.gov.au/calculators-and-tools/study-and-training-loan-repayment-calculator)
+* [ATO: GST and vehicles purchased under novated leases](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/motor-vehicle-and-transport/gst-and-vehicles-purchased-under-novated-leases)
+
+### Long Service Leave
+* [Business Victoria: Calculate Long Service Leave](https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/calculate-long-service-leave)
+* [Business Queensland: Calculating long service leave](https://www.business.qld.gov.au/running-business/employing/legal-obligations/long-service-leave/calculating)
+* [Business Queensland: Long service leave entitlements and continuous service](https://www.business.qld.gov.au/running-business/employing/legal-obligations/long-service-leave/entitlements#:~:text=The%20entitlement%20to%20long%20service%20leave%20is%20calculated,10%20%3D%20number%20of%20hours%20long%20service%20leave.)
   
 ## Xero Me
 * [Set up Xero Me for mobile](https://xero.my.site.com/s/article/Xero-Me-for-mobile)
@@ -66,8 +81,13 @@
 ## ATO 
 * [ATO: Key lodgment and payment dates for clients of registered agents for 2023–24](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/prepare-and-lodge/due-dates)
 * [ATO: Key lodgment and payment dates for Businesses & Organisations](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/due-dates-for-lodging-and-paying/due-dates-by-month)
+* [ATO: How lodgment deferrals work](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/prepare-and-lodge/lodgment-program-deferrals/how-lodgment-deferrals-work)
+
+###  Fuel Tax Credit, Motor Vehicle Expenses and Car Limit
 * [ATO: Fuel Tax credit calculator](https://www.ato.gov.au/single-page-applications/calculatorsandtools#FTCCalc/questions)
-* [ATO: Claiming a tax deduction for motor vehicle expenses and Car LIMIT](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/depreciation-and-capital-expenses-and-allowances/simpler-depreciation-for-small-business/instant-asset-write-off)
+* [ATO: Eligible fuels](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/fuel-schemes/fuel-tax-credits-business/eligibility/eligible-fuels)
+* [RACQ Fair Fuel Prices](https://www.racq.com.au/car/fair-fuel-prices?phracq_body_0_phracq_contentcontainer_0_FuelTypesDDL=37&location=Brisbane%20QLD,%20Australia)
+* [ATO: How GST applies when purchasing a motor vehicle](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/motor-vehicle-and-transport/gst-and-motor-vehicles/purchasing-a-motor-vehicle)
 
 
 ## ATO Community
