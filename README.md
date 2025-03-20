@@ -57,6 +57,32 @@
 ## Xero Me
 * [Set up Xero Me for mobile](https://xero.my.site.com/s/article/Xero-Me-for-mobile)
 * [Authorise an employee to approve leave and timesheets](https://central.xero.com/s/article/Authorise-an-employee-to-approve-leave-and-timesheets#:~:text=In%20the%20Payroll%20menu%2C%20select%20Employees.%20Click%20the,leave%2C%20select%20the%20Authorised%20to%20approve%20leave%20checkbox.)
+  
+## Vicroads
+* [Transport Accident Charges including GST and Duty](https://www.tac.vic.gov.au/__data/assets/pdf_file/0004/758686/TAC-Premiums-2023_24.pdf)
+* [Vicroads Vehicle fees](https://www.vicroads.vic.gov.au/registration/registration-fees/vehicle-registration-fees)
+
+
+## ATO 
+
+### ATO Lodgement and Payment Dates
+* [ATO: Key lodgment and payment dates for clients of registered agents for 2023–24](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/prepare-and-lodge/due-dates)
+* [ATO: Key lodgment and payment dates for Businesses & Organisations](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/due-dates-for-lodging-and-paying/due-dates-by-month)
+* [ATO: How lodgment deferrals work](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/prepare-and-lodge/lodgment-program-deferrals/how-lodgment-deferrals-work)
+
+###  Fuel Tax Credit, Motor Vehicle Expenses, and Car Limit
+* [ATO: Fuel Tax credit calculator](https://www.ato.gov.au/single-page-applications/calculatorsandtools#FTCCalc/questions)
+* [ATO: Eligible fuels](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/fuel-schemes/fuel-tax-credits-business/eligibility/eligible-fuels)
+* [RACQ Fair Fuel Prices](https://www.racq.com.au/car/fair-fuel-prices?phracq_body_0_phracq_contentcontainer_0_FuelTypesDDL=37&location=Brisbane%20QLD,%20Australia)
+* [ATO: How GST applies when purchasing a motor vehicle](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/motor-vehicle-and-transport/gst-and-motor-vehicles/purchasing-a-motor-vehicle)
+
+## TPAR
+* [ATO: Taxable payments annual report (TPAR)](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/taxable-payments-annual-report)
+* [TPAR: Employee or contractor](https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-contractor)
+
+## ATO Community
+* [Find tax and super answers with ATO Community](https://community.ato.gov.au/s/)
+
 
 ## Books | Guides
 * [Xero Tips and Tricks](https://drive.google.com/file/d/1bhPtIE0mDe_jCmGJwXNpHDidChhEQu8H/view?usp=share_link)
@@ -68,31 +94,6 @@
 * [Migration Certification Part 4 Quick Reference Guide](https://drive.google.com/file/d/1Tp9abfDi50SwtTsHiHg9Ho3M2KtWPcfb/view?usp=share_link)
 * [Xero Master COA](https://drive.google.com/file/d/1ZS70Fhe8MoNWk2Y_siaDlGpYOTnbnebq/view?usp=share_link)
   
-## Vicroads
-* [Transport Accident Charges including GST and Duty](https://www.tac.vic.gov.au/__data/assets/pdf_file/0004/758686/TAC-Premiums-2023_24.pdf)
-* [Vicroads Vehicle fees](https://www.vicroads.vic.gov.au/registration/registration-fees/vehicle-registration-fees)
-
-
-## TPAR
-* [ATO: Taxable payments annual report (TPAR)](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/taxable-payments-annual-report)
-* [TPAR: Employee or contractor](https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-contractor)
-
-
-## ATO 
-* [ATO: Key lodgment and payment dates for clients of registered agents for 2023–24](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/prepare-and-lodge/due-dates)
-* [ATO: Key lodgment and payment dates for Businesses & Organisations](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/due-dates-for-lodging-and-paying/due-dates-by-month)
-* [ATO: How lodgment deferrals work](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/prepare-and-lodge/lodgment-program-deferrals/how-lodgment-deferrals-work)
-
-###  Fuel Tax Credit, Motor Vehicle Expenses and Car Limit
-* [ATO: Fuel Tax credit calculator](https://www.ato.gov.au/single-page-applications/calculatorsandtools#FTCCalc/questions)
-* [ATO: Eligible fuels](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/fuel-schemes/fuel-tax-credits-business/eligibility/eligible-fuels)
-* [RACQ Fair Fuel Prices](https://www.racq.com.au/car/fair-fuel-prices?phracq_body_0_phracq_contentcontainer_0_FuelTypesDDL=37&location=Brisbane%20QLD,%20Australia)
-* [ATO: How GST applies when purchasing a motor vehicle](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/motor-vehicle-and-transport/gst-and-motor-vehicles/purchasing-a-motor-vehicle)
-
-
-## ATO Community
-* [Find tax and super answers with ATO Community](https://community.ato.gov.au/s/)
-
 
 ## Xero helpful links
 * [Xero Guides: Steps to ensure a seamless EOFY in Xero Payroll](https://blog.xero.com/small-business-resources/steps-to-a-seamless-eofy/)
