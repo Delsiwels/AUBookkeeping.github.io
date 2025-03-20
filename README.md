@@ -51,6 +51,9 @@
 * [Business Victoria: Calculate Long Service Leave](https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/calculate-long-service-leave)
 * [Business Queensland: Calculating long service leave](https://www.business.qld.gov.au/running-business/employing/legal-obligations/long-service-leave/calculating)
 * [Business Queensland: Long service leave entitlements and continuous service](https://www.business.qld.gov.au/running-business/employing/legal-obligations/long-service-leave/entitlements#:~:text=The%20entitlement%20to%20long%20service%20leave%20is%20calculated,10%20%3D%20number%20of%20hours%20long%20service%20leave.)
+
+### STP
+* [Changing a pay after finalising Single Touch Payroll](https://www.myob.com/au/support/myob-business/payroll/single-touch-payroll-reporting/end-of-year-finalisation-with-single-touch-payroll-reporting/changing-a-pay-after-finalising-single-touch-payroll?productview=Browser)
   
 ### Xero Me
 * [Set up Xero Me for mobile](https://xero.my.site.com/s/article/Xero-Me-for-mobile)
