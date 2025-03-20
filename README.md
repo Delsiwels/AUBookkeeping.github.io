@@ -27,8 +27,8 @@
 ## Payroll 
 
 ### Pay Rates and Awards
-* [Fairwork: Fast Food Industry Award](https://www.fairwork.gov.au/find-help-for/fast-food-restaurants-cafes/fast-food-industry)
 * [Fairwork](https://www.fwc.gov.au/)
+* [Fairwork: Fast Food Industry Award](https://www.fairwork.gov.au/find-help-for/fast-food-restaurants-cafes/fast-food-industry)
 * [Payroll Support](https://support.yourpayroll.com.au/hc/en-au/articles/5015381108111-Electrical-Electronic-and-Communications-Contracting-Award-2020-MA000025)
 * [Deputy: Pay rate library](https://help.deputy.com/hc/en-au/articles/4661165323919-Pay-rate-library#australian-awards)
 * [Deputy: Restaurant Industry Award Guide](https://help.deputy.com/hc/en-au/articles/4661990782479-Restaurant-Industry-Award-RIA-MA000119#h_01GZMZS6D346T9PGS8VFDD3MYQ)
