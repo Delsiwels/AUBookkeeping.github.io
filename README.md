@@ -45,7 +45,7 @@
 
 ### PAYG Withholding and Payroll Deductions
 * [ATO: PAYG withholding tax tables](https://www.ato.gov.au/tax-rates-and-codes/tax-tables-overview)
-* [Pay as you go (PAYG) withholding Tax Tables]([https://www.ato.gov.au/api/public/content/5c8c64b28f5f41659fee1ba9c04d81d0?v=5e9b44f2](https://www.ato.gov.au/tax-rates-and-codes/tax-tables-overview)
+* [Pay as you go (PAYG) withholding Tax Tables](https://www.ato.gov.au/tax-rates-and-codes/tax-tables-overview)
 * [ATO: STL Calculator](https://www.ato.gov.au/calculators-and-tools/study-and-training-loan-repayment-calculator)
 * [ATO: GST and vehicles purchased under novated leases](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/motor-vehicle-and-transport/gst-and-vehicles-purchased-under-novated-leases)
 
