@@ -35,7 +35,6 @@
 * [Deputy: Restaurant Industry Award Guide](https://help.deputy.com/hc/en-au/articles/4661990782479-Restaurant-Industry-Award-RIA-MA000119#h_01GZMZS6D346T9PGS8VFDD3MYQ)
 * [Deputy: Updating pay rates](https://help.deputy.com/hc/en-au/articles/4976714749071-Updating-pay-rates-in-Deputy)
 
-
 ### Payroll Tax and Workcover
 * [Payroll Tax: FAQ](https://www.e-bas.com.au/payroll-tax-what-who-why-how-much/)
 * [ATO: How Payroll Tax Works](https://business.gov.au/finance/taxation/payroll-tax)
@@ -57,10 +56,6 @@
 ### Xero Me
 * [Set up Xero Me for mobile](https://xero.my.site.com/s/article/Xero-Me-for-mobile)
 * [Authorise an employee to approve leave and timesheets](https://central.xero.com/s/article/Authorise-an-employee-to-approve-leave-and-timesheets#:~:text=In%20the%20Payroll%20menu%2C%20select%20Employees.%20Click%20the,leave%2C%20select%20the%20Authorised%20to%20approve%20leave%20checkbox.)
-  
-## Vicroads
-* [Transport Accident Charges including GST and Duty](https://www.tac.vic.gov.au/__data/assets/pdf_file/0004/758686/TAC-Premiums-2023_24.pdf)
-* [Vicroads Vehicle fees](https://www.vicroads.vic.gov.au/registration/registration-fees/vehicle-registration-fees)
 
 
 ## ATO 
@@ -76,12 +71,19 @@
 * [RACQ Fair Fuel Prices](https://www.racq.com.au/car/fair-fuel-prices?phracq_body_0_phracq_contentcontainer_0_FuelTypesDDL=37&location=Brisbane%20QLD,%20Australia)
 * [ATO: How GST applies when purchasing a motor vehicle](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/motor-vehicle-and-transport/gst-and-motor-vehicles/purchasing-a-motor-vehicle)
 
+
 ## TPAR
 * [ATO: Taxable payments annual report (TPAR)](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/taxable-payments-annual-report)
 * [TPAR: Employee or contractor](https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-contractor)
 
+
 ## ATO Community
 * [Find tax and super answers with ATO Community](https://community.ato.gov.au/s/)
+
+
+## Vicroads
+* [Transport Accident Charges including GST and Duty](https://www.tac.vic.gov.au/__data/assets/pdf_file/0004/758686/TAC-Premiums-2023_24.pdf)
+* [Vicroads Vehicle fees](https://www.vicroads.vic.gov.au/registration/registration-fees/vehicle-registration-fees)
 
 
 ## Books | Guides
