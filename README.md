@@ -43,7 +43,7 @@
 ### PAYG Withholding and Payroll Deductions
 * [ATO Tax withheld calculator](https://www.ato.gov.au/Calculators-and-tools/Tax-withheld-calculator)
 * [ATO: PAYG withholding tax tables](https://www.ato.gov.au/tax-rates-and-codes/tax-tables-overview)
-* [Pay as you go (PAYG) withholding Tax Tables](https://www.ato.gov.au/tax-rates-and-codes/tax-tables-overview)
+* [ATO: Pay as you go (PAYG) withholding Tax Tables](https://www.ato.gov.au/tax-rates-and-codes/tax-tables-overview)
 * [ATO: STL Calculator](https://www.ato.gov.au/calculators-and-tools/study-and-training-loan-repayment-calculator)
 * [ATO: GST and vehicles purchased under novated leases](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/motor-vehicle-and-transport/gst-and-vehicles-purchased-under-novated-leases)
 
@@ -73,7 +73,7 @@
 
 ## TPAR
 * [ATO: Taxable payments annual report (TPAR)](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/taxable-payments-annual-report)
-* [TPAR: Employee or contractor](https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-contractor)
+* [ATO: TPAR - Employee or contractor](https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-contractor)
 
 
 ## ATO Community
