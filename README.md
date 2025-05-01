@@ -46,6 +46,9 @@
 * [ATO: STL Calculator](https://www.ato.gov.au/calculators-and-tools/study-and-training-loan-repayment-calculator)
 * [ATO: GST and vehicles purchased under novated leases](https://www.ato.gov.au/businesses-and-organisations/gst-excise-and-indirect-taxes/gst/in-detail/your-industry/motor-vehicle-and-transport/gst-and-vehicles-purchased-under-novated-leases)
 
+### How to Manage Termination Payments
+* [Gratuity Payments]([[https://www.ato.gov.au/Calculators-and-tools/Tax-withheld-calculator])
+
 ### Long Service Leave
 * [Business Victoria: Calculate Long Service Leave](https://business.vic.gov.au/business-information/staff-and-hr/long-service-leave-victoria/calculate-long-service-leave)
 * [Business Queensland: Calculating long service leave](https://www.business.qld.gov.au/running-business/employing/legal-obligations/long-service-leave/calculating)
