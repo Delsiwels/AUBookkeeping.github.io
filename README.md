@@ -70,6 +70,10 @@
 * [ATO: Key lodgment and payment dates for Businesses & Organisations](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/due-dates-for-lodging-and-paying/due-dates-by-month)
 * [ATO: How lodgment deferrals work](https://www.ato.gov.au/tax-and-super-professionals/for-tax-professionals/prepare-and-lodge/lodgment-program-deferrals/how-lodgment-deferrals-work)
 
+### Xero HQ and XPM
+* [Xero Central: Set up and manage client relationships in Practice Manager or Xero Tax](https://central.xero.com/s/article/Set-up-client-relationships-AU#Howitworks)
+* [Xero Central: The next step in our journey towards a unified client record](https://blog.xero.com/sg/product-updates/unified-client-records/)
+
 ###  Fuel Tax Credit, Motor Vehicle Expenses, and Car Limit
 * [ATO: Fuel Tax credit calculator](https://www.ato.gov.au/single-page-applications/calculatorsandtools#FTCCalc/questions)
 * [ATO: Eligible fuels](https://www.ato.gov.au/businesses-and-organisations/income-deductions-and-concessions/incentives-and-concessions/fuel-schemes/fuel-tax-credits-business/eligibility/eligible-fuels)
