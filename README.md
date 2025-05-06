@@ -35,8 +35,9 @@
 * [Deputy: Updating pay rates](https://help.deputy.com/hc/en-au/articles/4976714749071-Updating-pay-rates-in-Deputy)
 
 ### Payroll Tax and Workcover
-* [Payroll Tax: FAQ](https://www.e-bas.com.au/payroll-tax-what-who-why-how-much/)
+* [ATO: Business Queensland Payroll Tax](https://www.business.qld.gov.au/running-business/employing/payroll-tax)
 * [ATO: How Payroll Tax Works](https://business.gov.au/finance/taxation/payroll-tax)
+* [Payroll Tax: FAQ](https://www.e-bas.com.au/payroll-tax-what-who-why-how-much/)
 * [Payroll Tax Resources](https://www.payrolltax.gov.au/resources#resources__rates_and_thresholds)
 * [Workcover](https://www.worksafe.vic.gov.au/resources/insurance-premium-simulator-spreadsheet)
 
