@@ -78,9 +78,10 @@
 
 
 ## TPAR
+* [Xero Central:Run and lodge the Taxable Payments Annual Report (TPAR)](https://central.xero.com/s/article/The-Taxable-Payments-Annual-Report#3Reviewandupdatethereport)
 * [ATO: Taxable payments annual report (TPAR)](https://www.ato.gov.au/businesses-and-organisations/preparing-lodging-and-paying/reports-and-returns/taxable-payments-annual-report)
 * [ATO: TPAR - Employee or contractor](https://www.ato.gov.au/businesses-and-organisations/hiring-and-paying-your-workers/employee-or-contractor)
-
+* [Xero Central: Error when lodging TPAR](https://central.xero.com/s/question/0D58V00009Ds7qnSAB/error-code-cmnatogenxml04-when-trying-to-lodge-tpar)
 
 ## ATO Community
 * [Find tax and super answers with ATO Community](https://community.ato.gov.au/s/)
