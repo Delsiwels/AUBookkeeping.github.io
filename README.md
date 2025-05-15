@@ -57,6 +57,7 @@
 
 ### STP
 * [Changing a pay after finalising Single Touch Payroll](https://www.myob.com/au/support/myob-business/payroll/single-touch-payroll-reporting/end-of-year-finalisation-with-single-touch-payroll-reporting/changing-a-pay-after-finalising-single-touch-payroll?productview=Browser)
+* [Stapled super funds for employers](https://www.ato.gov.au/businesses-and-organisations/super-for-employers/setting-up-super-for-your-business/offer-employees-a-choice-of-super-fund/stapled-super-funds-for-employers)
   
 ### Xero Me
 * [Set up Xero Me for mobile](https://xero.my.site.com/s/article/Xero-Me-for-mobile)
