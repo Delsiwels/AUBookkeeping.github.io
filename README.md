@@ -40,6 +40,7 @@
 * [Payroll Tax: FAQ](https://www.e-bas.com.au/payroll-tax-what-who-why-how-much/)
 * [Payroll Tax Resources](https://www.payrolltax.gov.au/resources#resources__rates_and_thresholds)
 * [Workcover](https://www.worksafe.vic.gov.au/resources/insurance-premium-simulator-spreadsheet)
+* [What is classed as ‘off-road’ areas for FTC? and FTC rebate exemptions](https://www.eroad.com.au/blog/fuel-tax-credit/what-are-fuel-tax-credits-ftc/)
 
 ### PAYG Withholding and Payroll Deductions
 * [ATO Tax withheld calculator](https://www.ato.gov.au/Calculators-and-tools/Tax-withheld-calculator)
