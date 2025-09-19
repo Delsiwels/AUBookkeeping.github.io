@@ -5,6 +5,8 @@
 * [ABN Lookup](https://abr.business.gov.au/Search)
 * [BSB Lookup](https://bsb.auspaynet.com.au/)
 * [AU wages calculator](https://paycalculator.com.au/)
+* [AU tax calculator](https://atotaxcalculator.com.au/)
+* [AU tax calculator TaxCalc](https://www.taxcalc.com.au/2526.html)
 * [XE.com - Currency converter](https://www.xe.com/)
 * [ilovePDF - convert PDF to CSV](https://www.ilovepdf.com/)
 * [Time Duration Calculator](https://www.calculator.net/time-duration-calculator.html?starthour=7&startmin=00&startsec=0&startunit=a&endhour=8&endmin=15&endsec=0&endunit=a&ctype=1&x=53&y=21)
