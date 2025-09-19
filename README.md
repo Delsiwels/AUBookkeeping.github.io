@@ -9,6 +9,7 @@
 * [AU tax calculator TaxCalc](https://www.taxcalc.com.au/2526.html)
 * [XE.com - Currency converter](https://www.xe.com/)
 * [ilovePDF - convert PDF to CSV](https://www.ilovepdf.com/)
+* [Numbers to CSV](https://cloudconvert.com/numbers-to-csv))
 * [Time Duration Calculator](https://www.calculator.net/time-duration-calculator.html?starthour=7&startmin=00&startsec=0&startunit=a&endhour=8&endmin=15&endsec=0&endunit=a&ctype=1&x=53&y=21)
 * [Days calculator](https://www.timeanddate.com/date/duration.html)
 * [Amortisation calculator](https://www.bretwhissel.net/cgi-bin/amortize)
