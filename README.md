@@ -66,6 +66,7 @@
 ### Xero Me
 * [Set up Xero Me for mobile](https://xero.my.site.com/s/article/Xero-Me-for-mobile)
 * [Authorise an employee to approve leave and timesheets](https://central.xero.com/s/article/Authorise-an-employee-to-approve-leave-and-timesheets#:~:text=In%20the%20Payroll%20menu%2C%20select%20Employees.%20Click%20the,leave%2C%20select%20the%20Authorised%20to%20approve%20leave%20checkbox.)
+* [Track payroll expenditure in Xero](https://central.xero.com/s/article/Payroll-tracking-in-Xero#:~:text=To%20assign%20a%20category%20to%20track%20payroll%20expenses%3A,track%20an%20employee%E2%80%99s%20total%20payroll%20expenditure%20by%20category.))
 
 
 ## ATO 
