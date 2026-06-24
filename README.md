@@ -141,6 +141,7 @@
 * _[Practice Protect Support](https://support.practiceprotect.com/get-in-contact/)_
 
 ## My Projects
+* [AI Finance Agent](FinQL.ai)
 * [Salary and withholding tax calculator website for Employed Filipino workers in the Philippines](https://portfolio-1acc0.web.app/)
   
 
